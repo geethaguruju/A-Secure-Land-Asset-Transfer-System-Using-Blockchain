@@ -10,6 +10,9 @@
 
 ## Paper Available on IJICT
 -  [Read the Paper on IJICT](http://www.irphouse.com/ijict19/ijictv13n1_1.pdf)
+
+## Demo
+Our Dapp is demonstrated in this video [here](https://youtu.be/2NAPE2fghqA)
   
 ## Objectives
 - **Implement a secure land registry process** using blockchain technology for enhanced transparency and immutability.  
@@ -26,9 +29,6 @@
 4. IPFS
 5. Flutter
 6. Metamask
-
-## Demo
-Our Dapp is demonstrated in this video [here](https://youtu.be/2NAPE2fghqA)
 
 ## To Run Application Locally
 1. Clone the github repository and cd to the folder
