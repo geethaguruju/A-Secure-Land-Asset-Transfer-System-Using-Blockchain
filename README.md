@@ -3,11 +3,22 @@
 <a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green"></a>
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-## Land Registration using Blockchain
-## Problem it Solves:
-1. The elimination of middlemen: The elimination of middlemen or brokers makes the process of land registration less expensive. Brokers who try to defraud uninformed people will be unable to do so any longer. Brokers frequently take a long time to finish procedures, thus our project will help people save time.
-3. A distributed tamper-proof ledger that prohibits ownership fraud.
-4. IPFS is used to store important property registration papers in a secure manner.
+
+## Project Report and Presentation 
+
+-  [Project Report](./Project_Report.pdf)
+-  [Presentation](./presentation.pdf)
+
+## Paper Available on IJICT
+-  [Read the Paper on IJICT](http://www.irphouse.com/ijict19/ijictv13n1_1.pdf)
+  
+## Objectives
+- **Implement a secure land registry process** using blockchain technology for enhanced transparency and immutability.  
+- **Develop a DApp** that serves as a unified platform for buying, selling, and registering land.  
+- **Introduce biometric authentication** to enhance user security and prevent unauthorized access.  
+- **Remove middlemen** and enable direct communication between buyers and sellers.  
+- **Maintain a tamper-proof and foolproof record** of transactions between buyers and sellers.  
+- **Ensure transparency** and easy access to property records for all stakeholders.
 
 ## Technology Stack:
 1. Ethereum Blockchain
@@ -64,8 +75,4 @@ flutter run -d web-server --web-port 5555
 10. Create mapbox api key from https://www.mapbox.com/ and Replace it with `mapBoxApiKey`in `constant.dart` file
 11. Create nftstorage api key from https://nft.storage/ and replace it.
     
-## Project Report and Presentation 
-
--  [Project Report](./Project_Report.pdf)
--  [Presentation](./presentation.pdf)
 
