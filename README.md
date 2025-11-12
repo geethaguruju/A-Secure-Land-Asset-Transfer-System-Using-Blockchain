@@ -1,4 +1,4 @@
-# Blockchain-Based-Property-Registration
+# A-Secure-Land-Asset-Transfer-System
 
 <a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green"></a>
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white">
@@ -19,8 +19,6 @@
 
 ## Demo
 Our Dapp is demonstrated in this video [here](https://youtu.be/2NAPE2fghqA)
-
-#### Check Smart contract At Ropsten Ethereum Testnet: [here](https://ropsten.etherscan.io/address/0x702058ba021cd4e4f847b40f32b58aa5be3a4661)
 
 ## To Run Application Locally
 1. Clone the github repository and cd to the folder
