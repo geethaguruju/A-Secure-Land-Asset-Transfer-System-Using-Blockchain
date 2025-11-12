@@ -18,17 +18,7 @@
 6. Metamask
 
 ## Demo
-Our Dapp is demonstrated in this video [here](https://youtu.be/0Coz_ivOaHs)
-
-## Run Application on deployed website
-Check out the deployed website [here](https://landregistry.live/)
-
-https://landregistry.live/
-
-This is for demonstration purposes only. With this key, you can log in as Land Inspector:
- <pre><b>6b86cddfedbec68ed2a1c7e14b993840a0848595ba5787aec9e8a38b18f0d96a</b></pre>
-For user: <pre><b>3ed4aff1a8ff8e28df3cd307112f9166886edcc85a27136908e3b1687b111f89</b></pre>\
-You can also use your own Ethereum wallet key as a user.
+Our Dapp is demonstrated in this video [here](https://youtu.be/2NAPE2fghqA)
 
 #### Check Smart contract At Ropsten Ethereum Testnet: [here](https://ropsten.etherscan.io/address/0x702058ba021cd4e4f847b40f32b58aa5be3a4661)
 
@@ -75,34 +65,9 @@ flutter run -d web-server --web-port 5555
 9. Open the browser and the dapp will be running in http://localhost:5555/
 10. Create mapbox api key from https://www.mapbox.com/ and Replace it with `mapBoxApiKey`in `constant.dart` file
 11. Create nftstorage api key from https://nft.storage/ and replace it.
-## Project Flowchart
-<img src="screenshots/flowchart.png" height="450">
+    
+## Project Report and Presentation 
 
-## Screenshots
-Home Page                   |                   Wallet connect/Login
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot1.png" height="225">  |<img src="screenshots/Screenshot7.png" height="225">
+-  [Project Report](./Project_Report.pdf)
+-  [Presentation](./presentation.pdf)
 
-Contract Owner Dashboard               |                   User Registration
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot10.png" height="225">  |<img src="screenshots/Screenshot12.png" height="225">
-
-Land Inspector Dashboard                   |                  User Verification 
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot11.png" height="225">     |<img src="screenshots/Screenshot5.png" height="225">
-
-User Dashboard               |                  Adding land on Map    
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot2.png" height="225">     |<img src="screenshots/Screenshot8.png" height="225">
-
-Land Gallery                |                   Land Details    
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot3.png" height="225">     |<img src="screenshots/Screenshot9.png" height="225">
-
-Received Request           |                   Make Payment  
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot6.png" height="225">     |<img src="screenshots/Screenshot4.png" height="225">
-
-Transfer ownership,Seller,buyer photo capture   |                Witness info,photo capture,transfer ownership 
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot14.png" height="225">     |<img src="screenshots/Screenshot13.png" height="225">
